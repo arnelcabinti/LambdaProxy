@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "serverless-http": "^2.3.2"
   }
 }
